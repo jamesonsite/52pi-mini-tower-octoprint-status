@@ -12,7 +12,7 @@ from PIL import Image, ImageDraw, ImageFont
 # OctoPrint settings
 # =========================
 OCTOPRINT_URL = "http://127.0.0.1:5000"
-API_KEY = "WvRKvWcOWcFrJrBBregkd2b_RbVe7UvwUqQnE1rqwFM"
+API_KEY = "API_KEY"
 
 # =========================
 # OLED settings
